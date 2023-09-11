@@ -5,7 +5,9 @@
 ![Brain Tumor Detection](https://your-image-url-here)
 
 ## About
-This project is a Flask-based web application designed for brain tumor detection. Healthcare professionals can effortlessly upload MRI scans and receive instant results. Our application is not only fast and accurate but also offers a user-friendly interface, powered by cutting-edge deep learning technology.
+- This project is a Flask-based web application designed for brain tumor detection. Healthcare professionals can effortlessly upload MRI scans and receive instant results. Our application is not only fast and accurate but also offers a user-friendly interface, powered by cutting-edge deep learning technology.
+
+- This Project was built at [The Actual Open AI HackaThon](https://devfolio.co/the-actually-open-ai-hackathon/dashboard)
 
 ## How to Contribute
 We welcome contributions from the community to make this project even more amazing! Here's how you can get involved:

@@ -37,7 +37,7 @@ To get started with contributing to Brain Tumor Detection, follow these steps:
    git push origin feature/new-feature
    ```
 
-8. **Create a Pull Request**: Go to the [original repository](https://github.com/original-repo/Brain-Tumor-Detection) on GitHub and click the "New Pull Request" button. Provide a descriptive title and explanation of your changes.
+8. **Create a Pull Request**: Go to the [Repository 1](https://github.com/DevJSter/Brain-Tumor-Detection) and  [Repository 2](https://github.com/Dev-X-Innovate/Brain-Tumor-Detection)on GitHub and click the "New Pull Request" button. Provide a descriptive title and explanation of your changes.
 
 9. **Code Review**: Your pull request will undergo code review. Make any necessary updates or address feedback.
 
