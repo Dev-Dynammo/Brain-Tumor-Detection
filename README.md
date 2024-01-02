@@ -2,12 +2,13 @@
 
 **Welcome to the Brain Tumor Detection project created during the Actual OpenAI Hackathon 2023!**
 
-![Brain Tumor Detection](https://your-image-url-here)
+![Brain Tumor Detection](https://miro.medium.com/v2/resize:fit:1200/1*aSC3odScNMyz7Y6MZvqJ1Q.jpeg)
 
 ## About
 - This project is a Flask-based web application designed for brain tumor detection. Healthcare professionals can effortlessly upload MRI scans and receive instant results. Our application is not only fast and accurate but also offers a user-friendly interface, powered by cutting-edge deep learning technology.
 
-- This Project was built at [The Actual Open AI HackaThon](https://devfolio.co/the-actually-open-ai-hackathon/dashboard)
+- This Project was built at [The Actual Open AI Hackathon](https://devfolio.co/the-actually-open-ai-hackathon/dashboard)
+- This Project was built at [Evergreen Grand Hackathon](https://evergreen-grand-hackathon.devpost.com/project-gallery)
 
 ## How to Contribute
 We welcome contributions from the community to make this project even more amazing! Here's how you can get involved:
