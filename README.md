@@ -1,6 +1,6 @@
 # Brain-Tumor-Detection
 
-**Welcome to the Brain Tumor Detection project created during the Actual OpenAI Hackathon 2023!**
+**Welcome to the Brain Tumor Detection project !**
 
 ![Brain Tumor Detection](https://miro.medium.com/v2/resize:fit:1200/1*aSC3odScNMyz7Y6MZvqJ1Q.jpeg)
 
